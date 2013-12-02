@@ -2,6 +2,8 @@ Icon Templates
 ==============
 Use these templates freely for any project. If you feel templates for an app is missing, feel free to add it to this repository.
 
+![image](https://raw.github.com/iconfinder/icon_templates/master/Adobe%20Illustrator/icon-grid-with-icon-01.png)
+
 ##Templates for Adobe Illustrator
 The initial version of the icon templates for Adobe Illustrator have been created by Scott Lewis.
 
