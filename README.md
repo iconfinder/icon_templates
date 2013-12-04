@@ -9,7 +9,7 @@ The initial version of the icon templates for Adobe Illustrator have been create
 
 ###Grid
 
-The grid used is 32 x 32 pixels, but don't adhere exactly to the grid since adhering to the grid to rigidly can hurt the aesthetic of the icon. So I follow the grid more as a guide than a set rule.
+The grid used is 32 x 32 pixels, but don't adhere exactly to the grid since adhering to the grid to rigidly can hurt the aesthetic of the icon. Follow the grid more as a guide than a set rule.
 
 ####Icons for Android
 24 x 24 and 48 x 48 px
